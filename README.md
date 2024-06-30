@@ -1,4 +1,4 @@
-# 🛠️ Pen and Book Detection using YOLOv8
+# 📚✏️ Pen and Book Detection using YOLOv8
 
 
 ## Project Overview
