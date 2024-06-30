@@ -1,10 +1,13 @@
-# PEN-BOOK-DETECTION
-This project involved using a model to detect pens and books in images. Using a pre-annotated dataset where pens and books were marked with bounding boxes, we trained the YOLOv8 model to recognize and locate these items. We evaluated the model's accuracy using a confusion matrix.
-
-The model can be used for various applications, such as organizing and cataloging educational materials, managing inventory, and enhancing educational tools by automatically recognizing and sorting pens and books in images. This project highlights the potential of object detection techniques to streamline the management of academic and office supplies.
+# 🛠️ Pen and Book Detection using YOLOv8
 
 
+## Project Overview
+The objective of this project is to improve object detection for items like pens and books in various environments. We trained the YOLOv8 model using annotated images, tested its accuracy, and applied it to real-time video footage.
 
+## Motivation
+Detecting objects such as pens and books in real-time can be highly beneficial for numerous applications including inventory management, automated checkout systems, and organizing academic resources. Manual detection is prone to errors and inefficiencies. By leveraging advanced AI techniques, this project aims to automate and improve the accuracy of object detection, ensuring efficiency and reliability.
 
+## Code and Resources Used
+We used Python version 3.8 along with packages such as ultralytics, opencv, numpy, torch, matplotlib, and roboflow. For more details on YOLOv8, refer to the [YOLOv8 Documentation](https://github.com/ultralytics/yolov8). Detailed steps and findings are available in the provided notebook and additional documentation.
 
 
